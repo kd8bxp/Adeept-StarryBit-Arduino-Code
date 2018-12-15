@@ -1,7 +1,9 @@
 # Adeept Starry:Bit Robot Arduino IDE code ports
 
 Code examples for the Arduino IDE using the Adeept Starry:Bit Robot
-http://www.adeept.com/adeept-starrybit-bbc-microbit-smart-robot-car-kit-programmable-stem-educational-robot-kit-with-detailed-projects-tutorial-book_p0116_s0028.html
+http://www.adeept.com/adeept-starrybit-bbc-microbit-smart-robot-car-kit-programmable-stem-educational-robot-kit-with-detailed-projects-tutorial-book_p0116_s0028.html  
+
+Videos: https://www.youtube.com/playlist?list=PLvL2YQclXymc5q4Hw4X-9jBARlwPKl43_  
 
 ## Installation
 
@@ -16,6 +18,9 @@ https://github.com/sandeepmistry/arduino-BLEPeripheral
 
 Experimental, but useful:
 Sparkfun's Mag3110 compass library - https://github.com/sparkfun/SparkFun_MAG3110_Breakout_Board_Arduino_Library   
+
+Some help on installing the Arduino-nRF5 core on a linux machine.  
+https://www.youtube.com/watch?v=ngZxVcUzUNo  
 
 ## Known Issues 
 ### or What is working and what is not working.
