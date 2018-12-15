@@ -1,0 +1,23 @@
+starry:bit
+https://www.youtube.com/watch?v=KXqlbNXgb1g
+Adeept BBC Microbit Robot Starry:Bit is coming soon
+
+BBC teaching video
+lesson 01£º
+https://www.youtube.com/watch?v=1NYyblein6w
+Adeept BBC Micro:bit Tutorial Series - Lesson 1: Getting Started with BBC Micro:bit
+
+lesson 02£º
+https://www.youtube.com/watch?v=qxG5RMzzbUQ
+Adeept BBC Micro:bit Tutorial Series - Lesson 2: Playing Music on your BBC Micro:bit
+
+lesson 03£º
+https://www.youtube.com/watch?v=f0H7sKOc2Y0
+Adeept BBC Micro:bit Tutorial Series - Lesson 3: Control servo and make a temperature alarm
+
+lesson 04£º
+https://www.youtube.com/watch?v=J5qeYZpF4Q8&t=4s
+Adeept BBC Micro:bit Tutorial Series - Lesson 4: Make a Smart desk lamp and a compass
+
+More Videos:
+www.adeept.com/video
