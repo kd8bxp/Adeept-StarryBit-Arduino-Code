@@ -5,6 +5,8 @@ http://www.adeept.com/adeept-starrybit-bbc-microbit-smart-robot-car-kit-programm
 
 Videos: https://www.youtube.com/playlist?list=PLvL2YQclXymc5q4Hw4X-9jBARlwPKl43_  
 
+Instructables: https://www.instructables.com/id/The-Adeept-StarryBit-BBC-MicroBit-Robot-With-Ardui  
+
 ## Installation
 
 Prerequisites: 
