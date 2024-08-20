@@ -1,3 +1,8 @@
+# Archived Aug 20, 2024
+
+This is code for the original Micro:Bit controller, and notes ect. And the Original Starry Bit robot. 
+I know longer own this robot, and have no plans of updating this code. This code may not work correctly on the new Micro:bit (MicroBit v2). I am leaving it up for history, it will probably still work and compile with the hardware it is intended for.
+ 
 # Adeept Starry:Bit Robot Arduino IDE code ports
 
 Code examples for the Arduino IDE using the Adeept Starry:Bit Robot
